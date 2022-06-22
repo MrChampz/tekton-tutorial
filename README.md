@@ -604,3 +604,5 @@ There are more features available and many more planned for upcoming releases.
 ## Related Links
 
 You can check out our other Knative-related tutorials and blogs at https://developer.ibm.com/components/knative/
+
+
